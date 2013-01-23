@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battery Logger</string>
+    <string name="charging_time_text">Charging time:</string>
+    <string name="default_text">default....</string>
+    <string name="active_string">Active time:</string>
+    <string name="standby_string">Standby time:</string>
+</resources>
